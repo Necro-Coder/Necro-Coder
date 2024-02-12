@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rubén Núñez Cotano</h1>
-<h3 align="center">A passionate full stack developer from Spain. I love develop mobile, web and so more. On my preferences, backend develop.</h3>
+<h3 align="center">I am a passionate full-stack developer from Spain. I specialize in developing mobile and web applications. My primary interest lies in backend development, where I apply my skills and knowledge to create robust and efficient solutions. I am always seeking opportunities to learn and grow in my field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necro-coder&label=Profile%20views&color=0e75b6&style=flat" alt="necro-coder" /> </p>
 
@@ -10,8 +10,6 @@
 - 🌱 I’m currently learning **Next Js, React and some more advanced Java**
 
 - 🤝 I’m looking for help with [Genesis](https://github.com/Necro-Coder/genesis)
-
-- and for [Java y la POO](https://github.com/Necro-Coder/Java-y-la-POO)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Necro-Coder](https://github.com/Necro-Coder)
 
