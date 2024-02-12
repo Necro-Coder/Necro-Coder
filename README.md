@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ruben-nu%C3%B1ez-cotano-b6a154278/](https://www.linkedin.com/in/ruben-nu%C3%B1ez-cotano-b6a154278/)
 
-- ⚡ Fun fact **I'm always learning some new things**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ruben-nu%c3%b1ez-cotano-b6a154278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruben-nu%c3%b1ez-cotano-b6a154278/" height="30" width="40" /></a>
