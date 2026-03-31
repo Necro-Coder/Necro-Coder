@@ -2,8 +2,8 @@
 <h3 align="center">I am a passionate full-stack developer from Spain. I specialize in developing mobile and web applications. My primary interest lies in backend development, where I apply my skills and knowledge to create robust and efficient solutions. I am always seeking opportunities to learn and grow in my field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Necro-Coder&label=Profile%20views&color=0e75b6&style=flat" alt="necro-coder" /> </p>
-(https://github-profile-trophy.vercel.app/?username=necro-coder&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Necro-Coder&row=2&column=3" alt="necro-coder" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=necro-coder&theme=onedark&row=2&column=3" alt="necro-coder" /></a> </p>
 
 - 🔭 I’m currently working on [Genesis](https://github.com/Necro-Coder/genesis)
 
